@@ -1,0 +1,8 @@
+/* Main Style of Application */
+
+body {
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    background: #37393b
+}

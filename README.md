@@ -8,4 +8,6 @@
 
 https://stealth-pawpaw-91a.notion.site/Productivity-App-f2de6b0493f844edabee398555cdebd1
 
-https://www.youtube.com/watch?v=lQ0Rh9csEa8
+CS50 Video can be found at:
+
+https://youtu.be/6IzmYzTsml0

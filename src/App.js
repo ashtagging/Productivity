@@ -1,10 +1,11 @@
 import React from "react";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
-import Calculator from "./pages/Calculator";
-import Menu from "./pages/Menu";
-import Timer from "./pages/Timer";
-import TodoList from "./pages/TodoList";
+import Calculator from "./pages/calculator/Calculator";
+import Menu from "./pages/menu/Menu";
+import Timer from "./pages/timer/Timer";
+import TodoList from "./pages/todolist/TodoList";
 import ErrorPage from "./pages/ErrorPage";
+import "./app.scss"
 
 function App() {
   return (

@@ -4,7 +4,7 @@
 
 "The main challanges from this project came from the pomodoro timer notably getting the sound to work when the timer reached 00:00 and letting the user to set  different break and start times" 
 
-**A Jorunal of creating this app can be found at** 
+**A Journal of creating this app can be found at** 
 
 https://stealth-pawpaw-91a.notion.site/Productivity-App-f2de6b0493f844edabee398555cdebd1
 
